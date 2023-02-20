@@ -20,4 +20,4 @@ Growth Mindset is believing that anyone can learn.
 
 ## Links to Class Notes
 ### Code 102
-* Class 01: [Link](/../class01)
+<!-- * Class 01: [Link](/../class01) -->
