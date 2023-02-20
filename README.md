@@ -18,4 +18,6 @@ Growth Mindset is believing that anyone can learn.
 * *EVERYONE* started off no knowing how to do the things I'm learning.
 * I am capable of learning!
 
-
+## Links to Class Notes
+### 102
+* Class 01: [Link](/../../class01)
