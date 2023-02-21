@@ -14,5 +14,5 @@ To track ***ALL*** files, use command `$ git add*`
 ## What is the command to send your changed files to Github?
 One we are done tracking and staging files, you must commit the file and/or changes made and the push.
 
-> Commiting a file can be done using the following code `$ git commit -m "commit comment goes here".
-To commit all changes made, enter the following code `$ gti push origin master`
+> Commiting a file can be done using the following code `$ git commit -m "commit comment goes here".`
+To commit all changes made, enter the following code `$ git push origin master`
