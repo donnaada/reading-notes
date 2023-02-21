@@ -46,9 +46,9 @@ Commits are the GIT equivalent of a `Save As...`. Each commit represent a succes
 
 ## What is the command to track and stage files?
 
-If we are only wanting to track ***one file***, the command we would use is `git add filename`. 
+If we are only wanting to track ***one file***, the command we would use is `git add filename`.
 
-To track ***ALL*** files, use command `git add .` 
+To track ***ALL*** files, use command `git add .`
 
 ## What is the command to send your changed files to Github?
 
