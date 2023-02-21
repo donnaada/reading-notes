@@ -13,6 +13,8 @@ There is no right or wrong choice when it comes to picking the best text editor.
 - `cd` - allows us to change our current location by typing the command followed by the location ie `cd [location`]
 - `mkdir` - Creates a directory in our current location. Need to specify the new directory name after command ie `mkdir [directory_name]`
 - `touch` - Creates a file in our current location. File name needs to be specified after the command ie `touch fileName.md`
+- `rm` - removes file. File name needs to be specified after command
+<!-- - `rm -rf` - removes the folder. ***MAKE SURE TO ADD FOLDER NAME AFTER OR ALL FILES ON COMPUTER WILL BE DELETED***-->
 
 ## What is happening in the following scenarios.
 
