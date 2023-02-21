@@ -3,7 +3,7 @@
 ## The ACP Process: **A**dd, **C**ommit, **P**ush
 
 - A : `git add .`
-- C : `git commit -m "Why I changed code"`
+- C : `git commit -m "Why I Made the Changes"`
 - P : `git push origin master`
 
 ---
