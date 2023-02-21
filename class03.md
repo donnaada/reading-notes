@@ -10,6 +10,10 @@
 
 `git status`
 
+## Pull Repo
+
+`git pull`
+
 ## The ACP Process: **A**dd, **C**ommit, **P**ush
 
 - A : `git add .`
