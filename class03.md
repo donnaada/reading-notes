@@ -12,7 +12,7 @@
 
 ## Pull Repo
 
-`git pull`
+`git pull origin main`
 
 ## The ACP Process: **A**dd, **C**ommit, **P**ush
 
