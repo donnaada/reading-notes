@@ -1,6 +1,6 @@
 # My Reading Notes 📚 Central
 
-A centralized area for all ***my*** reading notes with [Code Fellows]([url](https://www.codefellows.org))
+This website serves as a centralized area for all ***my*** reading notes with [Code Fellows]([url](https://www.codefellows.org))
 
 <!-- Introduction -->
 ## A Little About Me
@@ -31,3 +31,21 @@ Growth Mindset is believing that anyone can learn.
 * [6: JavaScript](./102/class06.md)
 * [7: Functions](./102/class07.md)
 * [8: Loops &amp; Logic](./102/class08.md)
+
+### Code 201
+
+* [1:](./201/class01.md)
+* [2:](./201/class02.md)
+* [3:](./201/class03.md)
+* [4:](./201/class04.md)
+* [5:](./201/class05.md)
+* [6:](./201/class06.md)
+* [7:](./201/class07.md)
+* [8:](./201/class08.md)
+* [9:](./201/class09.md)
+* [10:](./201/class10.md)
+* [11:](./201/class11.md)
+* [12:](./201/class12.md)
+* [13:](./201/class13.md)
+* [14:](./201/class14.md)
+* [15:](./201/class15.md)
