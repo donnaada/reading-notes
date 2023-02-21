@@ -6,6 +6,10 @@
 2. `cd` into where we want the repo to go
 3. `git clone (url)` to clone. Make sure to get the link from the green `<> Code` Button
 
+## Check Status
+
+`git status`
+
 ## The ACP Process: **A**dd, **C**ommit, **P**ush
 
 - A : `git add .`
