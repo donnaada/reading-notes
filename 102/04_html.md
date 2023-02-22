@@ -36,6 +36,7 @@ Three key principals of wireframes are:
 * [InVision](http://www.invisionapp.com/)
 * [Wireframe.cc](https://wireframe.cc/)
 * [balsamiq](https://balsamiq.com)
+* [miro](https://miro.com)
 
 ### Some Tools for Prototyping
 

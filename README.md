@@ -23,14 +23,14 @@ Growth Mindset is believing that anyone can learn.
 
 ### Code 102
 
-* [1: Learning Markdown](./102/class01.md)
-* [2: The Coder's Computer](./102/class02.md)
-* [3: Revisions and the Cloud](./102/class03.md)
-* [4: HTML](./102/class04.md)
-* [5: CSS](./102/class05.md)
-* [6: JavaScript](./102/class06.md)
-* [7: Functions](./102/class07.md)
-* [8: Loops &amp; Logic](./102/class08.md)
+* [1: Learning Markdown](./102/01_markdown.md)
+* [2: The Coder's Computer](./102/02_coders_computer.md)
+* [3: Revisions and the Cloud](./102/03_revisions_cloud.md)
+* [4: HTML](./102/04_html.md)
+* [5: CSS](./102/05_css.md)
+* [6: JavaScript](./102/06_js.md)
+* [7: Functions](./102/07_functions.md)
+* [8: Loops &amp; Logic](./102/08_loops_logics.md)
 
 ### Code 201
 
