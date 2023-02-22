@@ -2,7 +2,33 @@
 
 ## What is CSS
 
-CSS Stands for Cascading Style Sheets. CSS is used to style a website.
+CSS Stands for Cascading Style Sheets. CSS is used to style a website. Here is an example of CSS Code
+
+``` css
+h1 {
+color: goldenrod;
+font-size: 2rem;
+}
+```
+
+Css is made up of 2 parts - the selector and the declaration. In the example above, `h1` is the selector and `color: goldenrod;` is the declaration. The declaration can be broken into two parts. To the left of the `:` is the property(`color`), and to the right is the property value(`goldenrod`). 
+
+Three things to remember
+
+* The declarations must be wrapped in curly braces after the selector.
+* If there are multiple declarations, we must use `;` to separate the different sectors, and
+* we must also use a `:` to separate the property from its value.
+
+We can also select multiple selector. all we would have to do is add a commas between them.
+
+``` css
+h1,
+.header-text,
+.page-title {
+color: goldenrod;
+font-size: 2rem;
+}
+```
 
 ## Three (3) ways to insert CSS into your project
 
