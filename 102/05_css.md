@@ -35,3 +35,13 @@ p {
 color: red;
 }
 ```
+
+## Different ways to add color to an element
+
+* Color name ie `red`, `blue`, `green`
+* HEX - a hex value ie `#ffffff` or `#000000`
+* rgb(red-value,green-value,blue-value) - RGB stands for Red Green Blue and the values in the parenthesis can range from 0-255 ie `rgb(255,0,0)` will give you the color red.
+* rgba(r,g,b,opacity-value) - similar to rgb but the value gives control over opacity ie `rgba(255,0,0,0.5)` will give you the color red at 50% opacity.
+* hsl() - hsl takes three values representing hue, saturatoin, and lightness ie `hsl(0, 100%, 50%)` is the color red
+* hsla() - similar to rgba, hsla gives control over the opacity of the hsl value `hsla(0,100%,50%,0.25)` will result in a color with 25% opacity
+* mix() - allows you to mix two colors together, with an optional weight parameter ie `mix(red, blue)`
