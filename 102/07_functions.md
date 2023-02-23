@@ -53,7 +53,7 @@ The parenthesis is used include parameters. We can have single parameters or mul
 
 ## Other Reading notes
 
-### return x;
+### returning a value
 
 we only add return if we want something out of a function.
 
