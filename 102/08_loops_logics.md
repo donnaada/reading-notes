@@ -30,4 +30,4 @@ A for-loop stops executing once the value of the condition is false. if a condit
 
 ## How many times will a while loop execute?
 
-A while loop will execute until the condition returns the value of false.
+A while loop will continue to execute WHILE the condition is true
