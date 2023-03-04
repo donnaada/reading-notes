@@ -19,9 +19,9 @@ Growth Mindset is believing that anyone can learn.
 * *EVERYONE* started off no knowing how to do the things I'm learning.
 * I am capable of learning! -->
 
-## Links to Class Notes
+<!-- ## Links to Class Notes -->
 
-### Code 102
+## Code 102 - Intro to Software Development
 
 * [1: Learning Markdown](./102/01_markdown.md)
 * [2: The Coder's Computer](./102/02_coders_computer.md)
@@ -32,7 +32,7 @@ Growth Mindset is believing that anyone can learn.
 * [7: Functions](./102/07_functions.md)
 * [8: Loops &amp; Logic](./102/08_loops_logics.md)
 
-### Code 201
+## Code 201 - Foundations of Software Development
 
 * [1: Topic](./201/class01.md)
 * [2: Topic](./201/class02.md)
@@ -49,3 +49,7 @@ Growth Mindset is believing that anyone can learn.
 * [13: Topic](./201/class13.md)
 * [14: Topic](./201/class14.md)
 * [15: Topic](./201/class15.md)
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advance Software Develoment
