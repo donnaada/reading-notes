@@ -94,3 +94,42 @@ Another way is to add the js content in the script elements
 - GeoLocation API and how to implement in an app
 - When would it be an okay use of `<div>` over `<section>` or `<article>`?
 - What is a better use? Inline JavaScript handler or event listener?
+
+## Lecture Notes
+
+### Terminal Commands  
+
+- Create
+  - `mkdir`
+  - `touch`
+
+- Read
+  - `ls` Read Folders and Files in a directory in my fs
+  - `ls -la` read folders and files and list all/ more informaiton
+  - `pwd` Print working directory, our current location in the directory
+  - `tree` similar to ls but also displays all the sub folders and files in a specific directory
+
+- Update
+  - `mv filename.ext location/path` Moves a specific file/folder to a location or path
+    - Can be used to rename files
+  - `cp filename.ext location/path` Copy file/directory to another path.
+    - use `-r` when copying folders eg `cp -r folder ../` <- Copy all content in a folder up one level.
+
+- Delete
+  - `rm` Remove files at a path
+    - `rm -r folder` Used to remove/delete a folder
+
+- Movement
+  - `cd` move to a directory
+  - `..` move out one level
+
+### GitHub/Git
+
+- `git add`
+  - `git add .`
+  - `git add file folder`
+- `git commit -m 'comment'`
+- `git push origin main`
+- `git pull origin main` - Pull all changes made to a repo since last
+- `git clone <GITHUB_URL>`
+- `git init`
