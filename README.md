@@ -34,7 +34,7 @@ Growth Mindset is believing that anyone can learn.
 
 ## Code 201 - Foundations of Software Development
 
-* [1: Topic](./201/class01.md)
+* [1: Topic](./201/class-01.md)
 * [2: Topic](./201/class02.md)
 * [3: Topic](./201/class03.md)
 * [4: Topic](./201/class04.md)
