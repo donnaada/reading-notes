@@ -1,6 +1,6 @@
-# 🗒️ Class 01
+# 🗒️ Class 01 : Setup Developer Toolbelt
 
-Begin with a statement addressing why this topic matters as it relates to what you are studying in this module.
+The topics covered in the Class 01 Reading go over the basics of HTML, CSS, and JavaScript. It covers how data is transmitted between computers, how a browser reads the different markup and programming languages, and also semantic vs syntax style coding.
 
 ## Getting Started
 
