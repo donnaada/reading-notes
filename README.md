@@ -34,21 +34,29 @@ Growth Mindset is believing that anyone can learn.
 
 ## Code 201 - Foundations of Software Development
 
-* [1: Topic](./201/class-01.md)
-* [2: Topic](./201/class02.md)
-* [3: Topic](./201/class03.md)
-* [4: Topic](./201/class04.md)
-* [5: Topic](./201/class05.md)
-* [6: Topic](./201/class06.md)
-* [7: Topic](./201/class07.md)
-* [8: Topic](./201/class08.md)
-* [9: Topic](./201/class09.md)
-* [10: Topic](./201/class10.md)
-* [11: Topic](./201/class11.md)
-* [12: Topic](./201/class12.md)
-* [13: Topic](./201/class13.md)
-* [14: Topic](./201/class14.md)
-* [15: Topic](./201/class15.md)
+### Module 1: Introduction to Web Development
+
+* [1: Setup Developer Toolbelt](./201/class-01.md)
+* [2: Introduction to Web Development](./201/class02.md)
+* [3: Lists, The Box Model, and Loops](./201/class03.md)
+* [4: Links, Layouts, and Functions](./201/class04.md)
+* [5: Images, Color, Text, and More Work With Functions](./201/class05.md)
+
+### Module 2: The DOM, and Domain Modeling with Object Literals
+
+* [6: Domain Modeling, Intro to the DOM, and Object Literal Notation](./201/class06.md)
+* [7: HTML Tables and JS Constructor Functions](./201/class07.md)
+* [8: Layout wiht CSS](./201/class08.md)
+* [9: Forms and Events](./201/class09.md)
+* [10: Debugging and Error Handling](./201/class10.md)
+
+### Module 3: Libraries and Local Storage
+
+* [11: Audio and Video in HTML; Domain Modeling Revisited](./201/class11.md)
+* [12: Canvas and ChartJS](./201/class12.md)
+* [13: Introduction to Persistence with Local Storage](./201/class13.md)
+* [14: Documentation, Project Selection, & Team Workflow](./201/class14.md)
+* [15: Course Recap &amp; 301 Preview](./201/class15.md)
 
 ## Code 301 - Intermediate Software Development
 
