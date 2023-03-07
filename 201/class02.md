@@ -81,3 +81,66 @@ Review the block of code below and answer the following questions:
 ## This I Want to know
 
 - Do we use `<abbr>` every single time we have an abbreviation on the page or just the first time?
+
+## Lecture Notes
+
+String Interpolation: use backticks for combination string and variable ${variable} for JS Concat  
+
+``` javascript
+let variable = 'string interpolation';
+alert(`this is an example of ${variable}`);
+
+\\ outputs 'this is an example of string interpolation'
+
+```
+
+### git workshop
+
+cd into the folder
+`git init` to initialize a repository
+
+**ACP** `Git add .` or `git add filename.ext`; `git commit -m 'commit message'`; `git push origin <branch>`
+
+### Primative Data Types
+
+- Strings `' I am a string. Natural language characters'`
+- number 
+- null
+- undefined
+
+### Javascript
+
+add defer if i want html to load first
+
+#### switch statements 
+
+picks one or more line of code to run all based on a single expression (multiple options in a single switch)
+
+switch (expression){
+  case 'value':
+    console.log('Value 1')
+    break; <- add break so it doesnt evaluate through the reset of the switch
+  case true:
+    console.log('this is true ')
+  case 1:
+    console.log('this is number 1')
+  default: (if none of the values match, do this)
+    console.log('imma default')
+
+}
+
+let getName = prompt("what is your name?");
+
+switch (getName){
+  case '':
+    console.log('case 5');
+    break;
+  case null:
+    console.log('isNull');
+    break;
+  case undefined:
+    console.log('undefined');
+    break;
+  default:
+    console.log(getName);
+}
