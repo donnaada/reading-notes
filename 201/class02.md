@@ -1,5 +1,7 @@
 # 🗒️ Class 02: Basics of HTML, CSS & JS
 
+The reading for class 02 contine to touch on using semantic elements in our HTML. It touches on using `<abbr>` which I have never thought about doing in the past. It also goes over the multiple ways to add styling to a page. From the reading, we know that CSS can be added 3 ways, but i wanted to include that we could also add styling to a page using javascript, Im not too sure how yet but I have seen it done :)!
+
 ## Reading
 
 ### Introduction to HTML
@@ -73,5 +75,9 @@ Review the block of code below and answer the following questions:
   - `<`, `<=`, `===`
 
 - What is the difference between the logical operator && and ||?
-  - `&&` check to see if all the expressions evaluate true. 
+  - `&&` check to see if all the expressions evaluate true.
   - `||` check to see if on of the listed expressions evaluate true.
+
+## This I Want to know
+
+- Do we use `<abbr>` every single time we have an abbreviation on the page or just the first time?
