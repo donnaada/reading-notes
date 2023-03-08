@@ -91,6 +91,48 @@
 
 ## Lecture Notes
 
+### arrays
+
+let people = ['p1'] // array name is people
+people.length // displays length
+
+#### Adding to Array
+
+people.push('p2') // adds to the end array
+people.unshift('p3') // adds to beginning of array
+
+#### Removing from Array
+
+people.pop() // drops the last item in an array
+people.shift() // drops the first item in an array
+
+### loops
+
+#### for
+
+for (initialize; condition; increment){
+  //code to execute
+}
+
+#### while
+
+initialize somewhere above loop
+
+while (condition){
+  // code to execute
+  // increment/break
+}
+
+#### do while
+
+will run at least once
+
+do {
+  // code to run
+} while (condition)
+
+
+
 ### Things i want to learn
 
 - \* This part will be added as we go through the lectures or any other question comes up.
