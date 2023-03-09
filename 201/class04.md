@@ -51,6 +51,11 @@ The topics in the reading below matters because sets us up to create a better la
 - What is the difference between a parameter and an argument?
   - There are essentially the smae thing. According to the MDN Docs, the word parameter is exchangable with with arguments, properties, or sometimes even attributes.
 
+### 2 Benefits of Pair Programming
+
+  - Learning from fellow students - you get a different view of how someone would attempt a block of code and see how maybe that would be more efficent than what you are doing.
+  - Social Skills - Pair programming is great for improving social skills because you learn ways to expain your code in a way that makes sense to the other programming.
+
 ## Things I want to know more about
 
 - Adding parameters to the functions declared in app.js
