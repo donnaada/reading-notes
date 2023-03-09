@@ -30,11 +30,15 @@ The topics in the reading below matters because sets us up to create a better la
 - `___` positioning is the default for every html element.
   - Every element is position `static` by default.
 
+  > lecture notes: `relative` positioning is positioned relative to the parent element or siblings but will not ever be outside the parent.
+
+  > `sticky` positioning is a combination of fixed and relative positioning
+
 - Name a few advantages to using absolute positioning on an element.
   - Using the `position: absolute` styling is useful for when we want certain elements to stay on the page and not interfere with the content and other elements on the page. For example, newsletter signup modals and back to top buttons.
 
 - What is a key difference between fixed positioning and absolute positioning?
-  - Fixed positioning fixes an element based on where its placed on the visible portion of a viewport where as absolute fixes itself to the nearest positioned ancester element/tag.
+  - Fixed positioning fixes an element based on where its placed on the visible portion of a viewport where as absolute fixes itself to the nearest positioned ancestor element/tag.
 
 ### Learning JS
 
@@ -49,7 +53,9 @@ The topics in the reading below matters because sets us up to create a better la
       - and automatically
 
 - What is the difference between a parameter and an argument?
-  - There are essentially the smae thing. According to the MDN Docs, the word parameter is exchangable with with arguments, properties, or sometimes even attributes.
+  - There are essentially the smae thing. According to the MDN Docs, the word parameter is exchangable with with arguments, properties, or sometimes even attributes. example `function(name)` vs `function('donna')`;
+
+  > return statement: passing a value of a thing we want something out of a function.
 
 ### 2 Benefits of Pair Programming
 
@@ -60,3 +66,5 @@ The topics in the reading below matters because sets us up to create a better la
 
 - Adding parameters to the functions declared in app.js
 - if we only specify one parameter in the function, could we try and futher down the in the function?
+
+## Lecture Notes
