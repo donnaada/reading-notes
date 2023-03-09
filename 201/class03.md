@@ -48,7 +48,6 @@
   concole.log(person[1]) // Arrays start with 0 then counts up.
 ```
 
-
 ``` javascript
  const people = [
   ['pete', 32, 'librarian', null], 
@@ -130,8 +129,6 @@ will run at least once
 do {
   // code to run
 } while (condition)
-
-
 
 ### Things i want to learn
 
