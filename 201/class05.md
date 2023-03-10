@@ -37,5 +37,6 @@ The topics covered in the reading are important to get an understanding more of 
   - Using Margin and Padding
   - using Letter Spacing and wordspacing
 
-## Things i Want to learn
+## Things I Want to learn
 
+- Read more into accessibility and create standard template/palletes

@@ -31,7 +31,6 @@ The topics in the reading below matters because sets us up to create a better la
   - Every element is position `static` by default.
 
   > lecture notes: `relative` positioning is positioned relative to the parent element or siblings but will not ever be outside the parent.
-
   > `sticky` positioning is a combination of fixed and relative positioning
 
 - Name a few advantages to using absolute positioning on an element.
