@@ -1,6 +1,6 @@
 # 🗒️ Class 05
 
-The topics covered in the reading are important to get an understanding more of how we can make our site more accessible to the public.
+The topics covered in the reading are important to get an understanding more of how we can make our site more accessible to the public and visually appealing
 
 ## Learning HTML
 
@@ -14,24 +14,28 @@ The topics covered in the reading are important to get an understanding more of 
   - We can use the figure element to display an image as well as the caption for that specific image.
   
 - Describe the difference between a gif image and an svg image, pretend you are explaining to an elder in your community.
-  - Gifs are a half like picture and half like videos. SVGs are the better choice for images because it can modified using drawing commands.
+  - Gifs are a like a mix of pictures and videos. SVGs are the better choice for images because it can be modified using drawing commands like changing color.
 
 - What image type would you use to display a screenshot on your website and why?
-  - The image types we wpould use to display the rest screenshots are .png and .jpg/.jpeg extensions.
+  - The image types we would use to display screenshots are .png and .jpg/.jpeg extensions.
 
 ## Learning CSS
 
 - Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.
-  - Foreground color is the color of html elements and background color is the color of the tan holding background.
+  - Foreground color is the color of html elements and background color is the color of the HTML background.
+
 - Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?
-  - Depending of the type of coloredblindness you could style the website with some themed elements.
+  - I would use apps like [Paletton](https://www.paletton.com/) to simulate different color schemes agains a current palette and adjust from there.
+
 - What should you consider when choosing fonts for an HTML document?
-  - When choosing fonts, please makes sure it matches the your client's theme and is not too much on the page.
+  - Make sure you are using websafe fonts and it matters what order you list your fonts. Unlike CSS rules, browsers will try and use the first font file and then try for the second font file and so on.
 
 - What do font-size, font-weight, and font-style do to HTML text elements?
   - Adjusts how big/small a text is, how bold, and whether its italics, underline etc.
+
 - Describe two ways you could add spacing around the characters displayed in an h1 element.
   - Using Margin and Padding
+  - using Letter Spacing and wordspacing
 
 ## Things i Want to learn
 
