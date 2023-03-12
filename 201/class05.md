@@ -40,3 +40,24 @@ The topics covered in the reading are important to get an understanding more of 
 ## Things I Want to learn
 
 - Read more into accessibility and create standard template/palletes
+
+## Git Branching
+
+`Main Branch` is the production branch
+
+### Feature Branch
+
+Reviewed first then merged into main using Pull Request.
+
+### Fun With Functions
+
+create template first
+
+1. git clone (Main on Github)
+2. Create a feature branch called `sum` - `git checkout -b sum`
+3. Write code
+4. Add and Commit
+5. push to github on `sum branch` - git push origin sum
+6. open PR from sum on main on github
+7. `git checkout main` to switch back to main branch
+8. run `git pull origin main` to get all the change
