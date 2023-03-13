@@ -21,9 +21,17 @@ What are some advantages to creating object literals?
     > With objects, we can call on items within the object using the name which is from the name/value pair vs arrays where you would call on a specific position.
 
 1. Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
-    >
+    > We use dot notation to speifcy the item we want to access within an object. We use bracket notation to access to a property within a property.
 
 1. Evaluate the code below. What does the term `this` refer to and what is the advantage to using `this`?
+    > `this` refers to the current object the code is being written in.Example This referes to the dog Object
+
+[Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+
+1. What is the DOM?
+    > DOM stands for Document Object Model - The DOM represents the html page that we can change the document structure, style, and content.
+1. Briefly describe the relationship between the DOM and JavaScript.
+    > We can use JavaScript to access and manipulate the DOM but the DOM can be built for any language.
 
 ## Other Notes
 
