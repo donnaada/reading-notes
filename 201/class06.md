@@ -1,6 +1,6 @@
 # 🗒️ Class 06: Problem Domain, Objects, and the DOM
 
-This reading material is important because
+This reading material is important because we start to learn about manipulating the DOM and outputting object name/value pairs onto an HTML using JavaScript.
 
 ## Reading
 
