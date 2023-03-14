@@ -50,3 +50,59 @@ What are some advantages to creating object literals?
   };
 
 ```
+
+## Reading Notes
+
+Object literal - object created with curly brackets
+
+- It is a data structure like an array but instead of indices, objects use keys (key/value pairs)
+
+``` javascript
+
+// array
+let pokemon =["pikachu"];
+pokemon[0] //returns pikachu
+
+//object
+let pokemon ={
+  name: "pikachu"
+}
+pokemon.name; //still returns pikachu
+```
+
+When to use array vs object:
+
+- When all the things are the same type we can use array
+  - > `let pokedex = ["pikachu", "charmander", "bulbasaur"];`
+- If we want to add more information we can use object
+  - > `let pokemon = {name:"pikachu", type:"electric"};`
+
+- contextual this
+  - > this is a keyword that changes depending on where in our code we are calling it
+    - > refers to the object surrounding the "this" keyword
+
+- brackets vs dot notation
+  - two ways to refer to properties
+    - `object.property` - Dot notation uses the name of a property attached to the object, prepending by an a
+    - `object["property"]`- uses square brackets and reads from a string value; allows us to use variables; helpful when we want to read from a property that has a variable
+
+- Function on object are known as methods
+
+### DOM
+
+DOM is the virtual representation of the HTML Documentation.
+
+- document.selector.textContent is used if we are just changing text.
+
+``` javascript
+let parentElement = document.getElementById('parentID')
+let childElement = document.createElement('tagType');
+
+childElement.textContent = object.property;
+
+parentElement.appendChild(childElement);
+
+//adds style
+element.style="inline styles"
+```
+
