@@ -36,3 +36,28 @@
 
 Bookmark and Review
 HTML Table Advanced Features and Accessibility
+
+## Lecture Notes
+
+Constructor Functions - A Function that creates objects for us. Typing less & if we know what properties an object has, we can just define those properties in a function so we can create "duplicates" with different values
+
+``` javascript
+function Constructor(arg1, arg2){
+  this.object1 = arg1; // uses = to assign to `this` and not `:`
+  this.object2 = arg2; 
+
+  //doesnt need a return
+}
+
+new Constructor(arg1, arg2);
+```
+
+## Prototype Object
+
+Object that is inheritied by every object created by constructor. Single place to define property and behaviors that are shared by all object
+
+if a function is used everywhere, make it a prototype.
+
+``` javascript 
+
+```
