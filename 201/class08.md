@@ -24,7 +24,7 @@
 
     > Flex boxes will help make things a lot more responsive and will allow us to create better starter template that can make getting started on a new project alot quicker.
 
-## Lecture Notes 
+## Lecture Notes
 
 ### Prototypal Inheritence
 
