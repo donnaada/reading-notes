@@ -29,3 +29,34 @@
 - What is the difference between event bubbling and event capturing?
   - Event bubbles target the innermost child element then goes back out to the parent (most nested to least) and event capturing does the opposite.
   
+
+## lecture notes
+
+API - Application Programming Interface
+
+DOM = API For HTML elements in JS
+
+inputElement.addEventListener('input', function())
+
+``` javascript
+// find what element we want to add action/ event to
+let inputElement = document.getElementById('inputElement');
+let formElement = document.getElementById('formElement');
+
+// event/action
+function functionName{
+  console.log('im a function');
+}
+
+// attach event to element
+inputElement.addEventListener('input', functionName)
+
+// browser has some defaults, prevent default submissino behavior so page doesnt reload
+formElement.addEventListener('submit', function(event){
+  event.preventDefault(); //dont refresh page
+});
+
+
+
+
+```
