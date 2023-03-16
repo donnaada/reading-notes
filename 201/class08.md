@@ -23,3 +23,27 @@
 - How does this topic connect with your long term goals?
 
     > Flex boxes will help make things a lot more responsive and will allow us to create better starter template that can make getting started on a new project alot quicker.
+
+## Lecture Notes 
+
+### Prototypal Inheritence
+
+An object inherited by every other object created by a constructor.
+
+function Constructor1(arg){
+    this.arg = arg;
+}
+
+function Constructor2(arg1, arg2, arg3){
+    Constructor1.call(this, arg3)
+    this.arg1 = arg1;
+    this.arg2 = arg2;
+
+}
+
+### Flex Boxes
+
+used to create responsive row/column layouts
+
+align items is on the opposite axis
+justify-content is on the same axis
