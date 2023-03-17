@@ -55,8 +55,3 @@ inputElement.addEventListener('input', functionName)
 formElement.addEventListener('submit', function(event){
   event.preventDefault(); //dont refresh page
 });
-
-
-
-
-```
