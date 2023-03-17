@@ -29,7 +29,6 @@
 - What is the difference between event bubbling and event capturing?
   - Event bubbles target the innermost child element then goes back out to the parent (most nested to least) and event capturing does the opposite.
   
-
 ## lecture notes
 
 API - Application Programming Interface
