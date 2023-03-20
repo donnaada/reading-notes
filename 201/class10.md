@@ -26,3 +26,24 @@
 - What is the call stack?
 
   - a Function we acall in other functions();
+
+## Lecture Notes
+
+### Errors
+
+#### Types
+
+- Syntax errors - Errors caused by typos, missing closing brackets, wrong characters etc that javascript cant computer
+- Reference error - Errors caused by trying to refer to something that doesnt exist. return values are not as expected.
+- Type error - Ofter seen with objects. Data type is not what is expected
+- Range error - Numerical Issue (creating an array with negative space)
+
+
+#### Pillars of Debugging
+
+- Read your Error Messages
+- use console.log to audit and not trace
+  - only leave informative console.logs
+  - give message about why and what is being logged
+- use debugger statment to trace code
+  - autit value not as expected, try and use debugger.
