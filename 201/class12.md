@@ -2,9 +2,9 @@
 
 ## Javascript Canvas
 
-- What does the <canvas> allow a developer to acheive?
+- What does the `<canvas`> allow a developer to acheive?
   > Alows us to draw 2d graphics using JS
-- What is the importance of the closing `</canvas> tag?
+- What is the importance of the closing `</canvas>` tag?
   > Any content between the opening and closing `<canvas></canvas>` tags is the fallback content that displays if the browser doesnt offer canvas support
 - Explain what the getContext() method does.
   > takes one argument, which is the type of context, and returns a render context object
