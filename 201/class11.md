@@ -31,3 +31,19 @@
   > its more helpful because it allows us to tell the browser what exact image to use for certain screen sizes vs letting it scale down and hoping the image works.
 
 ## Lecture Notes
+
+``` css
+
+.setupGrid {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr; 
+grid-template-rows: 1fr 1fr 1fr;
+}
+
+.gridPositioning{
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+```
