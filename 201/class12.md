@@ -22,3 +22,7 @@ List 3 different Chart types you can create using Chart.js.
   > Charts makes it easier to read/display data and it is also visually appealing.
 How could Chart.js aid your previously created applications visually?
   > applying Chart.js to the results will make it easier for people to quickly view the results.
+
+## Lecture Notes
+
+- `canvas` is a drawable space in the HTML

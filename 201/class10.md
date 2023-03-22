@@ -38,7 +38,6 @@
 - Type error - Ofter seen with objects. Data type is not what is expected
 - Range error - Numerical Issue (creating an array with negative space)
 
-
 #### Pillars of Debugging
 
 - Read your Error Messages
