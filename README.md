@@ -56,6 +56,7 @@ Growth Mindset is believing that anyone can learn.
 * [12: Canvas and ChartJS](./201/class12.md)
 * [13: Introduction to Persistence with Local Storage](./201/class13.md)
 * [14: Documentation, Project Selection, & Team Workflow](./201/class14.md)
+* [14: Psycological Safety](./201/class14-psycological-safety.md)
 * [15: Course Recap &amp; 301 Preview](./201/class15.md)
 
 ## Code 301 - Intermediate Software Development
