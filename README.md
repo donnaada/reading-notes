@@ -61,7 +61,7 @@ Growth Mindset is believing that anyone can learn.
 
 ## Code 301 - Intermediate Software Development
 
-* [01: Introduction to React and Components](./301/class0.md)
+* [01: Introduction to React and Components](./301/class01.md)
 * [02:](./301/class02.md)
 * [03:](./301/class03.md)
 * [04:](./301/class04.md)
