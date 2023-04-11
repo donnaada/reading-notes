@@ -12,7 +12,7 @@
   > Constructor,  Render, React Updates, componentDidMount, componentWillUnmount
 
 - What does componentDidMount do?
-  > ComponentDidMount is a method that is called as soon as a component is mounted. 
+  > ComponentDidMount is a method that is called as soon as a component is mounted.
 
 ## [React State Vs Props](https://www.youtube.com/watch?v=IYvD9oBCuJI)
 
@@ -28,4 +28,5 @@
 - What are some examples of things that we could store in state?
   >  Status of a current and past, error messages, counters and userinput.
 
-  ## Things I want ot learn
+## Things I want ot learn
+  
