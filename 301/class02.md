@@ -1,4 +1,4 @@
-# 🗒️ Class 02: State and Props
+# 🗒️  Class 02: State and Props
 
 ## [React lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
 
@@ -28,5 +28,19 @@
 - What are some examples of things that we could store in state?
   >  Status of a current and past, error messages, counters and userinput.
 
-## Things I want ot learn
+## Reading
+
+[Docs - State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.htmlReact)  
+[Docs - handling events](https://reactjs.org/docs/handling-events.htmlReact )  
+[Tutorial through ‘Developer Tools’](https://reactjs.org/tutorial/tutorial.htmlReact)  
+[Bootstrap Documentation](https://react-bootstrap.github.io/React)  
+[Cheatsheet](https://getbootstrap.com/docs/5.0/examples/cheatsheet/Boootstrap)  
+[Shuffle - a class “sandbox”](https://bootstrapshuffle.com/classesBootstrap)  
+[Netlify](https://www.netlify.com/)  
+
+## Things I want to learn
+
+## Lecture Notes
+
+`<> </>` is called fragment
   

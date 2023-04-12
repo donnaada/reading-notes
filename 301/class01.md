@@ -2,7 +2,6 @@
 
 ## [Component-Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
-
 - What is a “component”?
   > Components are like functions. They are blocks of code that are reusable and can be called on when needed.
 
@@ -34,6 +33,8 @@
 ## Things I want to know more about
 
 ## Lecture Notes
+
+`<> </>` is called fragment
 
 `npx create-rect-app react-starter` checks online to see if there are any apps called create-rect-app and executes the command. *react-starter* is the title of the repo
 
