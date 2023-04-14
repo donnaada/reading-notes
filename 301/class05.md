@@ -1,6 +1,6 @@
 # 🗒️ Class 05: Putting it all together
 
-## [React Docs - Thinking in React(https://reactjs.org/docs/thinking-in-react.html)]
+## [React Docs - Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 
 -What is the single responsibility principle and how does it apply to components?
     > The SRP is a principal that states that every module/function should have ONLY ONE role, with components, this is the same. Each component should do only one thing. Once it starts doing multiple things, we should consider splitting it into two serparate components.
