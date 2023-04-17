@@ -38,7 +38,7 @@
 ### Yelp API Docs
 
 - Did you get your API key?
-    > No, I was getting and error. Will try again
+    > Yes
 
 ### The Movie DB API Docs
 
