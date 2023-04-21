@@ -7,7 +7,7 @@
   > REST APIs are designed around a resources.
 
 - What is an identifier of a resource? Give an example.
-  > A resource has a URI which helps uniquly identify a resource. Here is an examploe of the URI http://domain.com/path/to/resource?query=param1
+  > A resource has a URI which helps uniquly identify a resource. Here is an examploe of the URI `http://domain.com/path/to/resource?query=param1`
 
 - What are the most common HTTP verbs?
   > GET, POST, PUT, DELETE
