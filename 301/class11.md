@@ -4,12 +4,12 @@
 
 ### nosql vs sql
 
-SQL NoSQL
-Relational Database  non-relational/distributed database
-Table based  Document based/key-value pairs/graph database/ wide column stores
-Pre-defined schema   dynamic schema
-Vertically scalable  Horizontally scalable
-Good fit for ccomplex queires  best for transactional applciations
+SQL &rarr; NoSQL
+Relational Database &rarr; non-relational/distributed database  
+Table based &rarr; Document based/key-value pairs/graph database/ wide column stores  
+Pre-defined schema &rarr; dynamic schema  
+Vertically scalable &rarr; Horizontally scalable  
+Good fit for ccomplex queires &rarr; best for transactional applciations  
 
 What kind of data is a good fit for an SQL database?
   > SQL Databases are the best fit for complex queries and heavy duty transactional type applications
@@ -59,4 +59,3 @@ Which is more flexible - SQL or MongoDB? and why.
 
 What is the disadvantage of a NoSQL database?
   > Not being sure if a data adheres to a format because NoSQL databases dont have any scemna defined.
-  
