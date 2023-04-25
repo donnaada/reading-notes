@@ -23,3 +23,29 @@
 
 - What is the ‘Forbidden’ status code?
   > Status Code 401
+
+## Build A REST API With Node.js, Express, & MongoDB
+
+- Why do we need to pull our MongoDB database string out of our server and put it into our .env?
+  > We put that string into our .env file because it contains our db's admin username and password
+
+- What is middleware?
+  > Middleware is code that handles code between te client and server
+
+- What does app.use(express.json()) do?
+  > Allows an app to use JSON data in the request body.
+
+- What does the /:id mean in a route?
+  > It means its a dynamic route
+
+- What is the difference between PUT and PATCH?
+  > PUT updates the entire file and PATCH is a partial update
+
+- How do you make a default value in a schema?
+  > By adding the `default` property in the schema definition
+
+- What does a 500 error status code mean?
+  > Status 500 is a server error
+
+- What is the difference between a status 200 and a status 201?
+  > 200 is a success code and 201 is a success code but also signifies the backend resource has been created.
