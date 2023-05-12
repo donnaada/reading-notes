@@ -87,4 +87,72 @@ Growth Mindset is believing that anyone can learn.
 
 ## Code 401 - Advance Software Develoment
 
+### Module 1
 
+* [01:  Intro to NodeJS](./401/class01.md)
+* [02:  Modules and Testing](./401/class02.md)
+* [03:  Express Web Servers](./401/class03.md)
+* [04:  REST API](./401/class04.md)
+* [05:  Linked Lists, Big O, Resume Workshop](./401/class05.md)
+
+### Module 2
+
+* [06:  Basic Authentication](./401/class06.md)
+* [07:  Bearer Authentication](./401/class07.md)
+* [08:  Role Based Access Control](./401/class08.md)
+* [09:  Guided Project](./401/class09.md)
+* [10:  Stacks, Queues, Personal Pitch Workshop](./401/class10.md)
+
+### Module 3
+
+* [11:  Event Driven Programming](./401/class11.md)
+* [12:  Network Events](./401/class12.md)
+* [13:  Message Queues](./401/class13.md)
+* [14:  Guided Project](./401/class14.md)
+* [15:  Trees, Job Search Workshop](./401/class15.md)
+
+### Module 4
+
+* [16:  AWS: EC2 and Elastic Beanstalk](./401/class16.md)
+* [17:  AWS: S3 and Lambda](./401/class17.md)
+* [18:  AWS: APIs and Dynamo DB](./401/class18.md)
+* [19:  AWS: Message Queues and Notifications](./401/class19.md)
+* [20:  Project Kickoffs](./401/class20.md)
+
+### Module 5 - Midterm Project
+
+* [21:  Wireframes, User Stories, Architecture Plan, DevOps, Documentation, Agreements](./401/class21.md)
+* [22:  Phase 1](./401/class22.md)
+* [23:  MVP](./401/class23.md)
+* [24:  Final Polish, Presentation Practice](./401/class24.md)
+* [25:  Live Project Presentations](./401/class25.md)
+
+### Module 6
+
+* [26:  React - Function Components](./401/class26.md)
+* [27:  React - State Hook](./401/class27.md)
+* [28:  React - Effect Hook and Lifecycle](./401/class28.md)
+* [29:  React - Reducer Hook](./401/class29.md)
+* [30:  Hash Tables, Behavioral Interview Workshop](./401/class30.md)
+
+### Module 7
+
+* [31:  React - Context API](./401/class31.md)
+* [32:  React - Context API](./401/class32.md)
+* [33:  React - Cookies, Local Storage Login and Auth components](./401/class33.md)
+* [34:  React - RBAC](./401/class34.md)
+* [35:  Graphs, Technical Interview Workshop](./401/class35.md)
+
+### Module 8
+
+* [36:  React - Redux Reducers, Actions, and State](./401/class36.md)
+* [37:  Redux - Combined Reducers](./401/class37.md)
+* [38:  Redux - Asynchronous Actions](./401/class38.md)
+* [39:  Redux - Alternatives and Advanced Usage](./401/class39.md)
+* [40:  Personal Presentation](./401/class40.md)
+
+### Module 9
+
+* [41:  React Native](./401/class41.md)
+* [42:  React Native](./401/class42.md)
+* [43:  Open Source](./401/class43.md)
