@@ -91,6 +91,7 @@ Growth Mindset is believing that anyone can learn.
 
 * [Prep: Practice in the Terminal](./401/prework-cli.md)
 * [Prep: Introduction to SQL](./401/prework-sql.md)
+* [Prep: Prep Your Mindset](./401/prework-growth-mindset.md)
 
 ### Module 1
 
