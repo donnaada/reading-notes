@@ -89,8 +89,8 @@ Growth Mindset is believing that anyone can learn.
 
 ### PreWork
 
-* [Prep: Practice in the Terminal](./401/prework-cli)
-* [Prep: Introduction to SQL](./401/prework-cli)
+* [Prep: Practice in the Terminal](./401/prework-cli.md)
+* [Prep: Introduction to SQL](./401/prework-sql.md)
 
 ### Module 1
 
