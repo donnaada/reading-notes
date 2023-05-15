@@ -87,6 +87,11 @@ Growth Mindset is believing that anyone can learn.
 
 ## Code 401 - Advance Software Develoment
 
+### PreWork
+
+* [Prep: Practice in the Terminal](./401/prework-cli)
+* [Prep: Introduction to SQL](./401/prework-cli)
+
 ### Module 1
 
 * [01:  Intro to NodeJS](./401/class01.md)
