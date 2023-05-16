@@ -22,6 +22,8 @@
 
 ### What is TDD?
 
+Test Driven Development
+
 - Explain why tests are important. Please explain as though I were your non technical elder.
   - Tests are important because they help ensure that the code does what it is intended to do. Also, by testing early on and often, we can catch bugs sooner and resolve any issues.
 - What are three expected benefits of testing
