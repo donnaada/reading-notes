@@ -9,7 +9,7 @@
 - Express the most popular __ __ ____.
   - Node Web Framework
 - Express is “unopinionated.” What does that mean?
-  - That means that there are fewer restrictions on how components are pieced together to create a working product. 
+  - That means that there are fewer restrictions on how components are pieced together to create a working product.
 - What is a module and why is modularity useful to us as developers?
   - Modules are block of code that can be stored in external .js files and are imported into other code using the `require()` function. Modularity is useful because they are reusable chunks of code that can easily be used in other code projects.
 
