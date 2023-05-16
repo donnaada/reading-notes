@@ -18,3 +18,7 @@
 
 - What are your learning goals after reading and reviewing the class README?
   - Some of my learning goals include looking into using APIs and creating authentication with relational databases vs NoSQL DB and really understanding how to tie in server side code and clientside code for a full user experience.
+
+## Lecture Notes
+
+Node is a JavaScript Runtime Environment that is powered by V8 Engine and is similar to the Chrome Browser
