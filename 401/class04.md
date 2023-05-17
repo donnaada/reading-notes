@@ -13,18 +13,16 @@
 -Describe the differences in scalability between a SQl and NoSQL database as though you were speaking to a non-technical friend.
   > SQL Databases scale vertically meaning you keep adding on any additional resources needed to a single machine where as NoSQL DBs scale horizontally so if we need to scale up, we would just need to add another machine and distribute the load across all the machines.
 
-
 ### #sql modeling techniques
 
 -Among data tables, what is a one-to-many relationship and how do we “relate” them?
-  > answer
+  > One to many means that one entry in a table can be related to multiple entries in antoher table. we relate them by using `1..*`
 
--Prior to designing your relational database, it might be useful to ___ a ___ of the database tables and their relationships.
-  > answer
+-Prior to designing your relational database, it might be useful to ___a___ of the database tables and their relationships.
+  > Create a Data Model
 
 -Explain the difference between a primary and foreign key.
-  > answer
-
+  > A primary key is a unique variable for a specific database table and a foreign key is a variable in that table that refers to the primary key in another table.
 
 ## Videos
 
