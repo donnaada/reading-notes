@@ -29,12 +29,13 @@
 ### #sql vs nosql
 
 -How do we treat keywords and parameters differently in SQL syntax?
-  > answer
+  > Keywords are the commands and paramenters are the values, the whats and the wheres for example `SELECT * (all) FROM database WHERE id = 1`
 
 -Define normalization within the context of schemas and data.
-  > answer
+  > Normalization is the process of organizing and structuring the data in a database to reduce redundancy.
 
 -Explain the difference between one-to-one, one-to-many, and many-to-many relationships to a non-technical recruiter.
-  > answer
-
-Bookmark and Review
+  > One-to-one: If we are looking at two tables, a one-to-one relationship means that one item from table A can ONLY HAVE one item from table B and vise versa.
+  > one-to-many: One item from Table A can have many items from table B, think of like a team in the NFL, one team can have many players, but each player can only be in one team at a time.
+  > many-to-many: Opposite of one-to-one relationships in that data in each table can have belong to many records in the other table. In order to properly handle this relationship type, we would need to create a new table to represent the relationship.
+  
