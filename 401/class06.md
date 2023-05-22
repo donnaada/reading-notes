@@ -5,32 +5,29 @@
 ### Securing Passwords
 
 - Explain to a non-technical friend how you would safely hash and store a password.
-  > Answer
+  > Passwords are hashed by using an algorithm to take in your password and generating a completely different string of character that represents the password.
 
 - What is Bcrypt?
-  > Answer
+  > BCrypt is a Slow but strong method to protech passwords. It is an adaptive hash function that uses Key Stretching to make brute force attacks slower and to help minimize the impact.
 
 - Why might you use something like Bcrypt?
-  > Answer
+  > I would use BCrypt because it is extremely resistant to brute force attacks.
 
 ### Basic Authentication
 
 - What is Basic Authentication?
-  > Answer
+  > Basic Authentication is a method used by a web browser to provide a username and apssword. It is the simplest way to enforce access controls to web resources.
 
 - What properties are necessary in the header of a Basic Auth request?
-  > Answer
+  > `Authorization: Basic <credentials>` where the credentials ID and Password joined by a single colon, encoded with `Base64`
 
 - How are `username:password` in Basic Auth encoded?
-  > Answer
+  > It is encoded using `Base64`
 
 ### OWASP Auth Cheatsheet
 
 - Define the authentication process to a non-technical recruiter.
-  > Answer
+  > Authentication is an application's way of verifying that a user is who they say they are.
 
 - How should your error messaging respond (both HTTP and HTML)? Why?
-  > Answer
-
-- Bookmark this link also and consider OWASP fundamentals any time you interact with authentication. Applications developed with security in mind from inception have fewer vulnerabilities throughout their lifecycle.
-  > Answer
+  > Responds need to be done in a generic manner.
