@@ -33,4 +33,4 @@
 - Access Rights, or Authorization, is activated after a user successfully does what?
   > Atuhenticates.
 - Explain how RBAC might benefit a business.
-  > Answer
+  > Access is based on job functions or roles so it makes it easier grant and remove permissions on a greater scope than trying to change individual users.
