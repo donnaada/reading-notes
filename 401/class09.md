@@ -1,5 +1,3 @@
-# 🗒️ Class
+# 🗒️ Class 9 
 
-## Readings
-
-## Videos
+## 2 pr
